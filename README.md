@@ -1,5 +1,6 @@
 # non14
-simple app to implementing for  [jsoup](https://github.com/jhy/jsoup) library .
+simple app for implementing   [jsoup](https://github.com/jhy/jsoup) library .
+
 
 
 
